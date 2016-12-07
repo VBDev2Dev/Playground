@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBLinqToObject", "VBLinqToObject\VBLinqToObject.vbproj", "{1F187E80-A962-4EC9-9886-C59EC100E625}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{66E60E0C-AE02-42BA-9281-2D9DE26F61F3}"
+	ProjectSection(SolutionItems) = preProject
+		C:\USERS\VBJAY\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\14.0\EXTENSIONS\T4HCFCDO.0KS\description.html = C:\USERS\VBJAY\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\14.0\EXTENSIONS\T4HCFCDO.0KS\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F187E80-A962-4EC9-9886-C59EC100E625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F187E80-A962-4EC9-9886-C59EC100E625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F187E80-A962-4EC9-9886-C59EC100E625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F187E80-A962-4EC9-9886-C59EC100E625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
